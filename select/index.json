@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ユーレイ恋愛症",
+  "base_artist": "Poltergeist",
+  "createdAt": "2026-02-21T08:31:11.386376Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユーレイ恋愛症",
+      "artist": "Poltergeist",
+      "has_synced": false,
+      "path": "select/pl_01_ユーレイ恋愛症_Poltergeist.txt"
+    }
+  ]
+}
